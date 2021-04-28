@@ -1,0 +1,1 @@
+GRANT EXECUTE ON SYS.UTL_FILE TO cpooling_dba;
